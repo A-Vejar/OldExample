@@ -1,0 +1,6 @@
+- Program that manages vehicle information
+     a. Add indeterminate information of cars and trucks (random sequence)
+     b. List of each vehicle with its associated data (same sequence according each entry)
+     c. Given a patent, vehicle's data and the cost associated by their repair (Car and Truck)
+     d. Total amount of vehicles, cars and trucks
+     e. Truck's data which has the highest capacity
