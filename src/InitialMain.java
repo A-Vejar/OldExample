@@ -74,7 +74,8 @@ public class InitialMain {
         String patent, brand;
         int year, mileage, pondCapacity, capacity;
 
-        System.out.println("Choose type of vehicle:\n1. Car\n2. Truck" );
+        System.out.println();
+        System.out.print("Choose type of vehicle:\n1. Car\n2. Truck\n---> ");
         int choose = input.nextInt();
 
         if(choose == 1){

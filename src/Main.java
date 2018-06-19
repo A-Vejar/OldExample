@@ -63,6 +63,7 @@ public class Main {
             System.out.print("Choose an option --> ");
             choose = input.nextInt();
         }
+        System.out.println("You are out ...");
     }
 
     public static void main(String[] args) {
